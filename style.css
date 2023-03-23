@@ -1,0 +1,10 @@
+
+*{
+@import url(<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+   
